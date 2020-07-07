@@ -36,7 +36,7 @@
 			<li><a href="#tabs-1">DevOps</a></li>
 				<li><a href="#tabs-2">Aws</a></li>
 				<li><a href="#tabs-3">Google Cloud Platform</a></li>
-				<li><a href="#tabs-4">Azure</a></li>
+				<li><a href="#tabs-4">Akshu</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>https://en.wikipedia.org/wiki/DevOps</p>
@@ -69,7 +69,7 @@
 				</p>
 			</div>
 			<div id="tabs-3">
-				<p>Ansible is a configuration management tool or devops tools
+				<p>Ansible is a software configuration management tool or devops tools
 					that is similar to Puppet and Chef.</p>
 				<p>Ansible is a very simple configuration language, I would say.
 					A beginner can write a basic script and deploy a few cloud
@@ -93,15 +93,15 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
-				<p>Apple</p>
+				<p>Playing violin</p>
+				<p>Drawing manga</p>
 			</div>
 		</div>
 
 	</div >
 
 	<div class="container">
-		<footer>@ 2020 Gamut Gurus Technologies. All rights Reserved.</footer>
+		<footer>@ 2020 Akshu classroom training. All rights Reserved.</footer>
 	</div>
 
 </body>
