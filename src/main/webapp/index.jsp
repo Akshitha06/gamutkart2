@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1 style="colour:purple;">Welcome to Akshu Comic Classroom traning</h1> 
+			<h1 style="color:violet;">Welcome to Akshu Comic Classroom traning</h1> 
 			<h4>Contact: +91-9999999999 Email: info@akshu.com</h4> 
 		</header>
 
