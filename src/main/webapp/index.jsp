@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Gamut Gurus DevOps & Cloud Learning e-commerce Platform</h1> 
-			<h4>Contact: +91-944897 1000 Email: info@gamutgurus.com</h4> 
+			<h1 style="colour:purple;">Welcome to Akshu Comic Classroom traning</h1> 
+			<h4>Contact: +91-9999999999 Email: info@akshu.com</h4> 
 		</header>
 
 		<div id="tabs">
